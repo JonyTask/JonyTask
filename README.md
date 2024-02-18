@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonyTask&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonyTask&count_private=true&show_icons=true" style="height:250px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyTask" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonyTask" style="height:250px"/>
 </a>
 
 [![](https://raw.githubusercontent.com/JonyTask/JonyTask/main/profile-summary-card-output/omni/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
